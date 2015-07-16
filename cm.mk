@@ -21,5 +21,5 @@ $(call inherit-product, device/ti/beagleboneblack/beagleboneblack_sd.mk)
 $(call inherit-product, vendor/cm/config/common_mini_tv.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := cm_bbb
+PRODUCT_NAME := cm_beagleboneblack
 PRODUCT_RELEASE_NAME := beagleboneblack
