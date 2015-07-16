@@ -1,2 +1,2 @@
-add_lunch_combo beagleboneblack-eng
-add_lunch_combo beagleboneblack_sd-eng
+add_lunch_combo cm_bbb-eng
+add_lunch_combo cm_bbb_sd-eng
