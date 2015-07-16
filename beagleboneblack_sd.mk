@@ -17,7 +17,6 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 $(call inherit-product, device/ti/beagleboneblack/device.mk)
 
-PRODUCT_NAME := beagleboneblack_sd
 PRODUCT_DEVICE := beagleboneblack
 PRODUCT_BRAND := Android
 PRODUCT_MODEL :=  BeagleBone Black on SD card
